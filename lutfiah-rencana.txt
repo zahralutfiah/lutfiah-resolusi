@@ -3,7 +3,9 @@ RENCANA LUTFIAH
 -Javascript
 * ES6
 * Framework Javascript
--Struktur Data Dasar
+  ^ Angular
+  ^ Reach
 -PHP Frameworks
+ ^ Laravel
 -Interview
 -Vlogs
