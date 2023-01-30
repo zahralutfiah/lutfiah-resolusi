@@ -5,6 +5,7 @@ RENCANA LUTFIAH
 * Framework Javascript
   ^ Vue
   ^ React
+  ^ Angular
 -Struktur Data Dasar
 -PHP Frameworks
   ^ Laravel
